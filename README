@@ -1,0 +1,12 @@
+README for FORCE_Learning
+
+"Applications of FORCE Learning to Recurrent Neural Networks with Multiple Cell Types"
+Final project for Physics 278: Biophysics of Neurons and Networks, Winter 2015
+
+Authors: Brad Theilman and Tammy Tran
+
+Implementation of FORCE learning for recurrent neural networks with multiple cell types with Dale's Law-adherent, cell-type-specific means and connectivities (implemented as variances)
+Target function is a pure periodic function of some target frequency
+
+Adapted from Sussillo and Abbott (2009); Aljadeff, Stern, and Sharpee (2015); and Rajan and Abbott (2006)
+
